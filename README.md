@@ -3,14 +3,14 @@ This is a personal project to learn JavaScript
 
 <h1 align="center">
 <br>
-  <a href="https://files.fm/u/hhkhahaw9#/view/LOFI%20CHILLHOP.png"><img alt="TODO LIST"src="https://files.fm/thumb_show.php?i=g2qcrxyuz"></a>
+  <a href="https://files.fm/u/hhkhahaw9#/view/LOFI%20CHILLHOP.png"><img alt="TODOLIST"src="https://files.fm/thumb_show.php?i=bdjukk9pq"></a>
 
 <br>
 <br>
 TODOLIST
 </h1>
 <h2>
-  A little description about the project
+  A little description about the project:
 </h2>
 <pre>
 This is a HTML code for a Todo application interface. The code includes a form for adding tasks, a header, 
