@@ -7,7 +7,7 @@ This is a personal project to learn JavaScript
 
 <br>
 <br>
-YOUR_PROJECT_NAME
+TODOLIST
 </h1>
 
 <p align="center">A little description about your project</p>
