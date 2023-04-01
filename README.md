@@ -37,8 +37,8 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1.Clone this repo using  git clone <code>git@github.com:Wjunior-l/Todo-js.git</code>
-2.Move yourself to the folder.
+<p>1.Clone this repo using  git clone <code>git@github.com:Wjunior-l/Todo-js.git</code></p>
+<p>2.Move yourself to the folder.</p>
 
 
 ## License
