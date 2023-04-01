@@ -10,7 +10,9 @@ This is a personal project to learn JavaScript
 TODOLIST
 </h1>
 
-<p align="center">A little description about your project</p>
+<pre>
+This is a HTML code for a Todo application interface. The code includes a form for adding tasks, a header, and a toolbar containing a search bar and a filter dropdown menu. The application uses Font Awesome icons to add visual elements to the interface. The JavaScript file "scripts.js" is included in the code to provide the functionality to the application, such as adding, editing, and deleting tasks, as well as filtering and searching for tasks. The tasks themselves are represented in the code as a list of elements to be populated by the JavaScript code.
+</pre>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
