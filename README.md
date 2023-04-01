@@ -1,9 +1,9 @@
-# Todo-js
+# TODOLIST
 This is a personal project to learn JavaScript
 
 <h1 align="center">
 <br>
-  <img src="https://files.fm/u/hhkhahaw9#/view/LOFI%20CHILLHOP.png" alt="TODOLIST" width="120">
+  <a href="https://files.fm/u/hhkhahaw9#/view/LOFI%20CHILLHOP.png"><img src="https://files.fm/thumb_show.php?i=egvdeny7c"></a>
 
 <br>
 <br>
